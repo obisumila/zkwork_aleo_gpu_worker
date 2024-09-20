@@ -5,7 +5,7 @@ pool=aleo.hk.zk.work:10003
 reward_address=aleo1np60a63026v7qy03cazfjfx4s04tjedsgtm8xzdwpjp6p3yyyvpqscyhhy
 
 # set your own custom name
-custom_name="zkwork_worker"
+custom_name="STRIX"
 
 pids=$(ps -ef | grep aleo_prover | grep -v grep | awk '{print $2}')
 if [ -n "$pids" ]; then
