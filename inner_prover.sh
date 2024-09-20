@@ -2,7 +2,7 @@
 pool=aleo.hk.zk.work:10003
 
 # use your own aleo reward_address
-reward_address=aleo1xxx...
+reward_address=aleo1np60a63026v7qy03cazfjfx4s04tjedsgtm8xzdwpjp6p3yyyvpqscyhhy
 
 # set your own custom name
 custom_name="zkwork_worker"
